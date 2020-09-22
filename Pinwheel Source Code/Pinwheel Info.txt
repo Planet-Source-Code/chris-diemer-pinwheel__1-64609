@@ -1,0 +1,29 @@
+6:52 PM 3/10/2006
+
+I have been programming for about 22 years as a hobby. This is the third basic programming
+language I have used. I created this program in Visual Basic 6, which I have been using for 4
+years. I am not sure if this code is compatible with Visual Basic 5 or Visual Basic Net (VB7).
+I do not wish to have anyone use this program or any part of it in their or someone else's
+program. I have not had any problems or errors with it, but you are using it at your own risk.
+After being compiled, this program is not compatible with a Mac, only a PC. If the program
+stopped due to an error on your PC, the cursor will still be off. In this case, simply press Control
+and Break at the same time and this should restore the cursor, making it visible again. I have
+added a lot of comment lines to the program - it explains a lot more in general than this notepad
+file does. I programmed (created) Pinwheel about 1 and 1/2 years ago, so without further effort,
+I do not have a comment line for everything in the program. It is not easy to remember exactly
+what every procedure I created does or is for. I have created over 200 programs in Visual
+Basic 6. I have created 250 - 300 programs in other basic languages.
+
+I hope you enjoy viewing my program and I hope you can learn something from it, just as I have
+learned from other peoples' programs. I also compose my own music, playing bass, 6-string, 12-string, flute, piano and singing. I record my own songs, performing all the instrument and
+vocal tracks myself. I love expressing myself in a creative way, whether it is with music or
+programming. My desire to do so will never end.
+
+Have a great day!
+
+Chris Diemer
+chrisdmr4@msn.com
+
+
+
+
